@@ -1,2 +1,1 @@
-# cpsc-2120
-Projects using various Algorithms and Data Structures 
+These are various labs and projects from CPSC 2120 at Clemson University, Professor Widman, Fall 2020
